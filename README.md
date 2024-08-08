@@ -82,6 +82,36 @@ The entire codebase, along with detailed documentation and setup instructions, w
 - **Scikit-Learn**: Machine learning library for model development.
 - **Matplotlib/Seaborn**: Data visualization.
 
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+This is a list of things that you need to use the software and how to install them.<br>
+Before you begin, ensure you have met the following requirements. You can install them by running the provided pip commands.
+
+* Pandas
+  ```sh
+  pip install pandas
+  ```
+* Numpy
+  ```sh
+  pip install numpy
+  ```
+  * Matplotlib
+  ```sh
+  pip install matplotlib
+  ```
+* Seaborn
+  ```sh
+  pip install seaborn
+  ```
+  * Flask
+  ```sh
+  pip install flask
+  ```
 ## Installation
 
 1. Clone the repository:
