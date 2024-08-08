@@ -65,7 +65,7 @@ The entire codebase, along with detailed documentation and setup instructions, w
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) <br>
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) <br>
-<img src="https://github.com/user-attachments/assets/61f581ff-0762-45f2-bae1-37f40175ab6b" alt="Made with Flask" width="200" height="60">
+<img src="https://github.com/user-attachments/assets/61f581ff-0762-45f2-bae1-37f40175ab6b" alt="Made with Flask" width="200" height="40">
 
 
 ## Features Used
