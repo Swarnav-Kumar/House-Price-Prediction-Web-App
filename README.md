@@ -9,6 +9,7 @@
     <li><a href="#built-with">Built With</a></li>
       <li><a href="#features-used">Features Used</a> </li>
      <li><a href="#technologies-used">Technologies Used/a> </li>
+       <ul>
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
