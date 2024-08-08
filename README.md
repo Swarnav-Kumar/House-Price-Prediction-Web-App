@@ -40,6 +40,7 @@ The goal of this project is to create a predictive model that estimates housing 
 
 ![image](https://github.com/user-attachments/assets/2173c424-d08e-47fd-a19d-301a9316b464)
 
+<img width="945" alt="Home Page -3" src="https://github.com/user-attachments/assets/5f7767b0-a95f-4b1d-8d1b-d66101a1eeec">
 
 ## Features
 
