@@ -41,6 +41,10 @@ The goal of this project is to create a predictive model that estimates housing 
 ![image](https://github.com/user-attachments/assets/2173c424-d08e-47fd-a19d-301a9316b464)
 
 <img width="945" alt="Home Page -3" src="https://github.com/user-attachments/assets/5f7767b0-a95f-4b1d-8d1b-d66101a1eeec">
+<img width="943" alt="Home Page-4" src="https://github.com/user-attachments/assets/e1547812-38ed-4bd5-909c-5b23e4ef83e9">
+<img width="949" alt="About Us Page" src="https://github.com/user-attachments/assets/905436ce-240f-483c-8b8e-efac5c5b2138">
+<img width="946" alt="Working Page" src="https://github.com/user-attachments/assets/c7c7f2dd-5a2f-40b9-9c9f-1f38ee6a5569">
+<img width="945" alt="Contact Us Page" src="https://github.com/user-attachments/assets/db56e6eb-7778-4196-8deb-18ff58ba601f">
 
 ## Features
 
