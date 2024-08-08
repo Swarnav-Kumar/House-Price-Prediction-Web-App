@@ -61,8 +61,12 @@ The entire codebase, along with detailed documentation and setup instructions, w
 
 <img width="945" alt="Contact Us Page" src="https://github.com/user-attachments/assets/db56e6eb-7778-4196-8deb-18ff58ba601f">
 
+## Built With
 
-## Features
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) <br>
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) <br>
+
+## Features Used
 
 - Predict housing prices in Bangalore based on various features.
 - User-friendly web interface to input data and receive predictions.
