@@ -1,6 +1,20 @@
-# House-Price-Prediction-Web-App
+# House Price Prediction Web App
 
-This project involves the development of a robust predictive model for housing prices in Bangalore. The model aims to predict house prices through a web application, leveraging various machine learning techniques and thorough data analysis.
+This project focuses on developing a comprehensive predictive model to estimate housing prices in Bangalore. The goal is to build a robust machine learning model that can accurately predict house prices based on various factors such as location, size, amenities, and other relevant features. The model will be integrated into a user-friendly web application, enabling users to input details and receive price predictions instantly.
+
+## The project involves several key phases :-
+
+## Data Collection and Preprocessing :- The first step is to gather and preprocess a rich dataset containing various features influencing house prices in Bangalore. This includes data cleaning, handling missing values, and feature engineering to create new variables that may improve model performance.
+
+## Exploratory Data Analysis (EDA) :- A thorough EDA will be conducted to understand the underlying patterns, correlations, and distributions within the data. This analysis will guide feature selection and provide insights into the most influential factors affecting house prices.
+
+## Model Development :- Various machine learning algorithms, such as Linear Regression, Decision Trees, Random Forests, and Gradient Boosting Machines, will be explored and implemented. Hyperparameter tuning, cross-validation, and regularization techniques will be employed to optimize the model’s performance.
+
+## Model Evaluation :- The models will be evaluated using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared to ensure accuracy and reliability. The best-performing model will be selected for deployment.
+
+## Web Application Development :- The final model will be deployed within a Flask web application. The application will feature an intuitive user interface where users can input various property details and obtain an estimated price. The web app will also include features such as model explanations, confidence intervals, and possibly a visualization of price trends in different Bangalore neighborhoods.
+
+## Documentation and Deployment :- The entire codebase, along with detailed documentation and setup instructions, will be hosted on GitHub. This will include steps for replicating the project, explanations of the model’s workings, and guidelines for future improvements.
 
 ## Table of Contents
 - [Introduction](#introduction)
