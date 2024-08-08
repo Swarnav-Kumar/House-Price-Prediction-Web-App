@@ -1,6 +1,27 @@
 <h1 align="center">House Price Prediction Web App</h1>
 <h2 align="center">Python Developer (AI/ML) Assignment - VE3</h2>
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#about-the-project">About The Project</a> </li>
+    <li><a href="#built-with">Built With</a></li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#usage">Usage</a>
+      <ul>
+      </ul>
+    </li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 This project focuses on developing a comprehensive predictive model to estimate housing prices in Bangalore. The goal is to build a robust machine learning model that can accurately predict house prices based on various factors such as location, size, amenities, and other relevant features. The model will be integrated into a user-friendly web application, enabling users to input details and receive price predictions instantly.
 
 ## The project involves several key phases :-
