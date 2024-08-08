@@ -1,5 +1,5 @@
 <h1 align="center">House Price Prediction Web App</h1>
-<h2 align="center">Python Developer (AI/ML) Assignment - VE3</h2>
+<h3 align="center">Python Developer (AI/ML) Assignment - VE3</h3>
 
 <!-- TABLE OF CONTENTS -->
 <details>
