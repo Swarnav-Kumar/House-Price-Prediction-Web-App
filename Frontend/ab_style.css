@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #411f74;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.team-member {
+    text-align: center;
+}
+
+.team-member img {
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('p4.jpg'); /* Replace 'wj.jpg' with the path to your image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+header {
+    background-color: rgba(51, 51, 51, 0.7); /* Adding a semi-transparent background color for better readability */
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    backdrop-filter: blur(10px); /* Adding a blur effect to create the glassmorphism effect */
+}
+
+main {
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.5); /* Semi-transparent background color for content */
+    backdrop-filter: blur(5px); /* Adding a blur effect to create the glassmorphism effect */
+}
+
+
+

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>House Price Prediction System</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-image: url("pp.jpg"); /* Replace 'background.jpg' with the path to your image */
+      background-size: cover; /* Cover the entire viewport */
+      background-position: center; /* Center the background image */
+      background-repeat: no-repeat; /* Do not repeat the background image */
+    }
+
+    header {
+      background-color: #042a1c;
+      color: #fff;
+      padding: 10px 0;
+      text-align: center;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 0 20px; /* Adjust padding here to control left and right spacing */
+      background-color: rgba(255, 255, 255, 0.8); /* Add a semi-transparent white background */
+      border-radius: 10px; /* Add rounded corners */
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a shadow effect */
+    }
+
+    h2 {
+      color: #007bff;
+      margin-top: 20px;
+    }
+
+    p {
+      margin-bottom: 20px;
+      text-align: left; /* Align paragraphs to the left */
+    }
+
+    pre {
+      background-color: #f8f9fa;
+      padding: 10px;
+      border-radius: 5px;
+      overflow-x: auto;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>How It Works</h1>
+  </header>
+  <div class="container">
+    <!-- <h2>How It Works</h2> -->
+    <p>The House Price Prediction system employs the Linear Regression supervised machine learning algorithm to calculate the price of a house based on several input features:</p>
+
+    <h3>Input Features:</h3>
+    <ul>
+      <li>Area (in square feet)</li>
+      <li>Number of bedrooms (BHK)</li>
+      <li>Number of bathrooms</li>
+      <li>Location</li>
+    </ul>
+
+    <p>The price is calculated using the linear regression equation:</p>
+    <pre>
+price = m1 * Area + m2 * BHK + m3 * Bathrooms + m4 * Location + b
+    </pre>
+    <p>Where:</p>
+    <ul>
+      <li><code>price</code> is the predicted price of the house</li>
+      <li><code>m1</code> is the coefficient (weight) for the Area feature</li>
+      <li><code>m2</code> is the coefficient for the BHK feature</li>
+      <li><code>m3</code> is the coefficient for the Bathrooms feature</li>
+      <li><code>m4</code> is the coefficient for the Location feature</li>
+      <li><code>b</code> is the intercept value</li>
+    </ul>
+
+    <p>The coefficients <code>m1</code>, <code>m2</code>, <code>m3</code>, <code>m4</code>, and the intercept <code>b</code> are learned from the training data using the linear regression algorithm.</p>
+    <p>During the prediction phase, the system takes the new input data (Area, BHK, Bathrooms, Location), multiplies each feature value by its corresponding coefficient, sums them up, and adds the intercept <code>b</code> to obtain the predicted house price.</p>
+  </div>
+  <footer>
+    <small>
+        Copyright © 2024 . All Rights Reserved.
+    </small>
+</footer>
+</body>
+</html>
