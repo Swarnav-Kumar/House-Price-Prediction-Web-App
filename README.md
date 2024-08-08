@@ -44,10 +44,10 @@ The goal of this project is to create a predictive model that estimates housing 
 
 ## Features
 
-⦿ Predict housing prices in Bangalore based on various features.
-⦿ User-friendly web interface to input data and receive predictions.
-⦿ Comprehensive data analysis and visualization.
-⦿ Backend implemented using Flask web framework.
+- Predict housing prices in Bangalore based on various features.
+- User-friendly web interface to input data and receive predictions.
+- Comprehensive data analysis and visualization.
+- Backend implemented using Flask web framework.
 
 ## Technologies Used
 
