@@ -60,19 +60,19 @@ The goal of this project is to create a predictive model that estimates housing 
 
 ## Installation
 
-1. Clone the repository:
+Step 1. Clone the repository:
     ```bash
     git clone https://github.com/yourusername/predicting-housing-prices.git
     ```
-2. Navigate to the project directory:
+Step 2. Navigate to the project directory:
     ```bash
     cd predicting-housing-prices
     ```
-3. Create a virtual environment:
+Step 3. Create a virtual environment:
     ```bash
     python -m venv venv
     ```
-4. Activate the virtual environment:
+Step 4. Activate the virtual environment:
 
     - For Windows:
         ```bash
@@ -82,7 +82,7 @@ The goal of this project is to create a predictive model that estimates housing 
         ```bash
         source venv/bin/activate
         ```
-5. Install the required dependencies:
+Step 5. Install the required dependencies:
     ```bash
     pip install -r requirements.txt
     ```
