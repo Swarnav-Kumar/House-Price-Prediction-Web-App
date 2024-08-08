@@ -40,11 +40,6 @@ The goal of this project is to create a predictive model that estimates housing 
 
 ![image](https://github.com/user-attachments/assets/2173c424-d08e-47fd-a19d-301a9316b464)
 
-![image](C:\Users\KIIT\House-Price-Prediction-Using-Machine-Learning\Screenshots\Home Page -3.png)
-
-
-
-
 
 ## Features
 
