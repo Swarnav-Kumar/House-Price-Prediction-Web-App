@@ -100,7 +100,7 @@ Before you begin, ensure you have met the following requirements. You can instal
   ```sh
   pip install numpy
   ```
-  * Matplotlib
+* Matplotlib
   ```sh
   pip install matplotlib
   ```
@@ -108,7 +108,7 @@ Before you begin, ensure you have met the following requirements. You can instal
   ```sh
   pip install seaborn
   ```
-  * Flask
+* Flask
   ```sh
   pip install flask
   ```
