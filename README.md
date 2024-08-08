@@ -22,6 +22,8 @@
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
+
+## About The Project
 This project focuses on developing a comprehensive predictive model to estimate housing prices in Bangalore. The goal is to build a robust machine learning model that can accurately predict house prices based on various factors such as location, size, amenities, and other relevant features. The model will be integrated into a user-friendly web application, enabling users to input details and receive price predictions instantly.
 
 ## The project involves several key phases :-
@@ -44,20 +46,6 @@ The final model will be deployed within a Flask web application. The application
 ## 6. Documentation and Deployment :- 
 The entire codebase, along with detailed documentation and setup instructions, will be hosted on GitHub. This will include steps for replicating the project, explanations of the model’s workings, and guidelines for future improvements.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
-The goal of this project is to create a predictive model that estimates housing prices in Bangalore. By analyzing various factors that influence house prices, the model can provide accurate predictions, which are then accessible through a user-friendly web application.
-
 <img width="941" alt="Home Page" src="https://github.com/user-attachments/assets/da75abc1-5a55-474a-ba91-987648371800">
 
 <img width="946" alt="Home Page -2" src="https://github.com/user-attachments/assets/93957cc4-1b4b-46f7-934a-6efc0a6db206">
@@ -70,8 +58,8 @@ The goal of this project is to create a predictive model that estimates housing 
 
 <img width="946" alt="Working Page" src="https://github.com/user-attachments/assets/c7c7f2dd-5a2f-40b9-9c9f-1f38ee6a5569">
 
-
 <img width="945" alt="Contact Us Page" src="https://github.com/user-attachments/assets/db56e6eb-7778-4196-8deb-18ff58ba601f">
+
 
 ## Features
 
