@@ -149,3 +149,7 @@ Before you begin, ensure you have met the following requirements. You can instal
     python app.py
     ```
 3. Open your web browser and navigate to `http://127.0.0.1:5000/` to access the web application.
+
+## Contact
+
+Swarnav Kumar -  swarnav786@gmail.com 
