@@ -1,4 +1,4 @@
-# House Price Prediction Web App
+<h1 align="center">House Price Prediction Web App</h1>
 
 This project focuses on developing a comprehensive predictive model to estimate housing prices in Bangalore. The goal is to build a robust machine learning model that can accurately predict house prices based on various factors such as location, size, amenities, and other relevant features. The model will be integrated into a user-friendly web application, enabling users to input details and receive price predictions instantly.
 
