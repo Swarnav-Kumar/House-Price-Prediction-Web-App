@@ -36,19 +36,15 @@ The entire codebase, along with detailed documentation and setup instructions, w
 
 The goal of this project is to create a predictive model that estimates housing prices in Bangalore. By analyzing various factors that influence house prices, the model can provide accurate predictions, which are then accessible through a user-friendly web application.
 
-![image](https://github.com/user-attachments/assets/5ed5cfce-5e96-4895-888b-3e54d85bd334)
+<img width="941" alt="Home Page" src="https://github.com/user-attachments/assets/da75abc1-5a55-474a-ba91-987648371800">
 
-![image](https://github.com/user-attachments/assets/2173c424-d08e-47fd-a19d-301a9316b464)
-
+<img width="946" alt="Home Page -2" src="https://github.com/user-attachments/assets/93957cc4-1b4b-46f7-934a-6efc0a6db206">
 
 <img width="945" alt="Home Page -3" src="https://github.com/user-attachments/assets/5f7767b0-a95f-4b1d-8d1b-d66101a1eeec">
 
-
 <img width="943" alt="Home Page-4" src="https://github.com/user-attachments/assets/e1547812-38ed-4bd5-909c-5b23e4ef83e9">
 
-
 <img width="949" alt="About Us Page" src="https://github.com/user-attachments/assets/905436ce-240f-483c-8b8e-efac5c5b2138">
-
 
 <img width="946" alt="Working Page" src="https://github.com/user-attachments/assets/c7c7f2dd-5a2f-40b9-9c9f-1f38ee6a5569">
 
