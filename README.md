@@ -112,6 +112,10 @@ Before you begin, ensure you have met the following requirements. You can instal
   ```sh
   pip install flask
   ```
+* Scikit-Learn
+  ```sh
+  pip install scikit-learn
+  ```
 ## Installation
 
 1. Clone the repository:
