@@ -51,6 +51,8 @@ The entire codebase, along with detailed documentation and setup instructions, w
 
 <img width="946" alt="Home Page -2" src="https://github.com/user-attachments/assets/93957cc4-1b4b-46f7-934a-6efc0a6db206">
 
+<img width="959" alt="Result page" src="https://github.com/user-attachments/assets/c91ad9c6-5aa6-4900-bc4d-dfda6dc11e34">
+
 <img width="945" alt="Home Page -3" src="https://github.com/user-attachments/assets/5f7767b0-a95f-4b1d-8d1b-d66101a1eeec">
 
 <img width="943" alt="Home Page-4" src="https://github.com/user-attachments/assets/e1547812-38ed-4bd5-909c-5b23e4ef83e9">
